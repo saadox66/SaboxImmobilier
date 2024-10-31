@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <admins>
+        <admin>
+            <id>user_1</id>
+            <username>admin_1</username>
+            <password>admin</password>
+            <phone>07 45 65 02 78</phone>
+            <mail>admin_1@sabox.com</mail>
+            <address>9 Rue Marcel Boucher</address>
+        </admin>
+
+        <admin>
+            <id>user_2</id>
+            <username>admin_2</username>
+            <password>admin</password>
+            <phone>07 45 65 02 78</phone>
+            <mail>admin_2@sabox.com</mail>
+            <address>91 Rue Marcel Boucher</address>
+        </admin>
+
+        <admin>
+            <id>user_3</id>
+            <username>admin_3</username>
+            <password>admin</password>
+            <phone>07 45 65 02 78</phone>
+            <mail>admin_3@sabox.com</mail>
+            <address>93 Rue Marcel Boucher</address>
+        </admin>
+
+    </admins>

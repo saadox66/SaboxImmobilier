@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<properties>
+    <property>
+        <id>0</id>
+        <title>Maison contemporaine avec vue sur Paris</title>
+        <property_type>maison</property_type>
+        <adresse>1 Rue de la Liberté, Paris 75000</adresse>
+        <prix>550000</prix>
+        <statut>for sale</statut>
+        <bhk>4 bhk</bhk>
+        <bed>3</bed>
+        <bathroom>3</bathroom>
+        <balcony>2</balcony>
+        <hall>1</hall>
+        <kitchen>1</kitchen>
+        <floor>2</floor>
+        <total_floor>3</total_floor>
+        <area_size>2200</area_size>
+        <city>Paris</city>
+        <state>Île-de-France</state>
+        <elevator>true</elevator>
+        <security_guards>true</security_guards>
+        <gardens>false</gardens>
+        <water_supply>true</water_supply>
+        <power_backup>true</power_backup>
+        <parking_area>true</parking_area>
+        <gym>false</gym>
+        <mall>true</mall>
+        <hospital>true</hospital>
+        <schools>true</schools>
+        <status>available</status>
+        <is_featured>true</is_featured>
+        <description>Une superbe maison contemporaine avec une architecture unique, offrant un espace de vie spacieux et une vue imprenable sur la ville de Paris. Cette maison est parfaite pour une famille cherchant le confort et la modernité dans un cadre urbain animé.</description>
+        <publisher_name>Jean Dupont</publisher_name>
+        <publisher_number>0123456789</publisher_number>
+        <image>maison-0-1.jpg</image>
+        <image>maison-0-2.jpg</image>
+        <image>maison-0-3.jpg</image>
+    </property>
+    <property>
+        <id>1</id>
+        <title>Appartement de luxe au cœur de Paris avec vue magnifique</title>
+        <property_type>appartement</property_type>
+        <adresse>5 Avenue des Champs-Élysées, Paris 75000</adresse>
+        <prix>750000</prix>
+        <statut>for rent</statut>
+        <bhk>2 bhk</bhk>
+        <bed>3</bed>
+        <bathroom>1</bathroom>
+        <balcony>1</balcony>
+        <hall>1</hall>
+        <kitchen>1</kitchen>
+        <floor>4</floor>
+        <total_floor>6</total_floor>
+        <area_size>1200</area_size>
+        <city>Paris</city>
+        <state>Île-de-France</state>
+        <elevator>true</elevator>
+        <security_guards>false</security_guards>
+        <gardens>false</gardens>
+        <water_supply>true</water_supply>
+        <power_backup>true</power_backup>
+        <parking_area>false</parking_area>
+        <gym>true</gym>
+        <mall>true</mall>
+        <hospital>true</hospital>
+        <schools>true</schools>
+        <status>available</status>
+        <is_featured>true</is_featured>
+        <description>Un élégant appartement situé au cœur de Paris, offrant une vue magnifique sur la ville lumière. Cet appartement de luxe dispose de finitions haut de gamme et d'équipements modernes pour un confort optimal.</description>
+        <publisher_name>Sophie Martin</publisher_name>
+        <publisher_number>9876543210</publisher_number>
+        <image>p-1-1.jpg</image>
+        <image>p-1-2.jpg</image>
+        <image>p-1-3.jpg</image>
+    </property>
+    <property>
+        <id>2</id>
+        <title>Villa de luxe en bord de mer à Nice avec vue sur la Méditerranée</title>
+        <property_type>villa</property_type>
+        <adresse>10 Rue de la Mer, Nice 06000</adresse>
+        <prix>1200000</prix>
+        <statut>for sale</statut>
+        <bhk>5 bhk</bhk>
+        <bed>6</bed>
+        <bathroom>4</bathroom>
+        <balcony>3</balcony>
+        <hall>2</hall>
+        <kitchen>1</kitchen>
+        <floor>1</floor>
+        <total_floor>2</total_floor>
+        <area_size>3000</area_size>
+        <city>Nice</city>
+        <state>Provence-Alpes-Côte d'Azur</state>
+        <elevator>true</elevator>
+        <security_guards>true</security_guards>
+        <gardens>true</gardens>
+        <water_supply>true</water_supply>
+        <power_backup>true</power_backup>
+        <parking_area>true</parking_area>
+        <gym>true</gym>
+        <mall>false</mall>
+        <hospital>true</hospital>
+        <schools>true</schools>
+        <status>available</status>
+        <is_featured>true</is_featured>
+        <description>Une somptueuse villa en bord de mer à Nice, offrant des vues à couper le souffle sur la Méditerranée. Cette villa de luxe est dotée de jardins paysagers, d'une piscine privée et de finitions de haute qualité, offrant un style de vie méditerranéen exclusif.</description>
+        <publisher_name>Luc Dubois</publisher_name>
+        <publisher_number>5551234567</publisher_number>
+        <image>p-2-1.jpg</image>
+        <image>p-2-2.jpg</image>
+        <image>p-2-3.jpg</image>
+    </property>
+    <property>
+        <id>3</id>
+        <title>Immeuble moderne au cœur de Lyon pour investisseurs</title>
+        <property_type>building</property_type>
+        <adresse>20 Rue de la République, Lyon 69000</adresse>
+        <prix>3500000</prix>
+        <statut>for sale</statut>
+        <bhk>12 bhk</bhk>
+        <bed>0</bed>
+        <bathroom>8</bathroom>
+        <balcony>6</balcony>
+        <hall>3</hall>
+        <kitchen>2</kitchen>
+        <floor>10</floor>
+        <total_floor>20</total_floor>
+        <area_size>15000</area_size>
+        <city>Lyon</city>
+        <state>Auvergne-Rhône-Alpes</state>
+        <elevator>true</elevator>
+        <security_guards>true</security_guards>
+        <gardens>false</gardens>
+        <water_supply>true</water_supply>
+        <power_backup>true</power_backup>
+        <parking_area>true</parking_area>
+        <gym>true</gym>
+        <mall>true</mall>
+        <hospital>true</hospital>
+        <schools>true</schools>
+        <status>available</status>
+        <is_featured>true</is_featured>
+        <description>Un immeuble moderne et spacieux au cœur de Lyon, offrant un potentiel commercial et résidentiel. Avec une architecture contemporaine et des commodités de pointe, cet immeuble est une opportunité idéale pour les investisseurs cherchant à développer un projet immobilier polyvalent.</description>
+        <publisher_name>Pauline Leclerc</publisher_name>
+        <publisher_number>7779876543</publisher_number>
+        <image>p-3-1.jpg</image>
+        <image>p-3-2.jpg</image>
+        <image>p-3-3.jpg</image>
+    </property>
+    <property>
+        <id>4</id>
+        <title>Espace de bureaux moderne et polyvalent à Marseille</title>
+        <property_type>office</property_type>
+        <adresse>8 Rue du Commerce, Marseille 13000</adresse>
+        <prix>2200000</prix>
+        <statut>for sale</statut>
+        <bhk>10 bhk</bhk>
+        <bed>0</bed>
+        <bathroom>6</bathroom>
+        <balcony>0</balcony>
+        <hall>5</hall>
+        <kitchen>2</kitchen>
+        <floor>5</floor>
+        <total_floor>8</total_floor>
+        <area_size>10000</area_size>
+        <city>Marseille</city>
+        <state>Provence-Alpes-Côte d'Azur</state>
+        <elevator>true</elevator>
+        <security_guards>true</security_guards>
+        <gardens>false</gardens>
+        <water_supply>true</water_supply>
+        <power_backup>true</power_backup>
+        <parking_area>true</parking_area>
+        <gym>false</gym>
+        <mall>true</mall>
+        <hospital>true</hospital>
+        <schools>true</schools>
+        <status>available</status>
+        <is_featured>true</is_featured>
+        <description>Un espace de bureaux moderne et spacieux situé dans un quartier dynamique de Marseille. Cet espace de bureau polyvalent offre un design contemporain, des installations de haute technologie et une connectivité optimale, idéal pour les entreprises à la recherche d'un emplacement stratégique.</description>
+        <publisher_name>Michel Lambert</publisher_name>
+        <publisher_number>4567891230</publisher_number>
+        <image>p-4-1.jpg</image>
+        <image>p-4-2.jpg</image>
+        <image>p-4-3.jpg</image>
+    </property>
+    <property>
+        <id>5</id>
+        <title>Appartement moderne au cœur de Toulouse</title>
+        <property_type>flat</property_type>
+        <adresse>3 Boulevard Saint-Germain, Toulouse 31000</adresse>
+        <prix>420000</prix>
+        <statut>for rent</statut>
+        <bhk>1 bhk</bhk>
+        <bed>3</bed>
+        <bathroom>1</bathroom>
+        <balcony>1</balcony>
+        <hall>1</hall>
+        <kitchen>1</kitchen>
+        <floor>3</floor>
+        <total_floor>5</total_floor>
+        <area_size>800</area_size>
+        <city>Toulouse</city>
+        <state>Occitanie</state>
+        <elevator>true</elevator>
+        <security_guards>false</security_guards>
+        <gardens>false</gardens>
+        <water_supply>true</water_supply>
+        <power_backup>false</power_backup>
+        <parking_area>false</parking_area>
+        <gym>false</gym>
+        <mall>false</mall>
+        <hospital>true</hospital>
+        <schools>true</schools>
+        <status>available</status>
+        <is_featured>false</is_featured>
+        <description>Un appartement moderne et confortable au cœur de Toulouse, offrant un accès facile aux commodités urbaines. Cet appartement est idéal pour les jeunes professionnels ou les couples à la recherche d'un espace de vie pratique et bien situé dans la ville.</description>
+        <publisher_name>Léa Moreau</publisher_name>
+        <publisher_number>7894561230</publisher_number>
+        <image>p-5-1.jpg</image>
+        <image>p-5-2.jpg</image>
+        <image>p-5-3.jpg</image>
+    </property>
+    <property>
+        <id>6</id>
+        <title>Terrain spacieux et bien situé à Bordeaux pour investisseurs</title>
+        <property_type>terrain</property_type>
+        <adresse>25 Avenue des Pins, Bordeaux 33000</adresse>
+        <prix>900000</prix>
+        <statut>for sale</statut>
+        <bhk>0</bhk>
+        <bed>0</bed>
+        <bathroom>0</bathroom>
+        <balcony>0</balcony>
+        <hall>0</hall>
+        <kitchen>0</kitchen>
+        <floor>0</floor>
+        <total_floor>0</total_floor>
+        <area_size>5000</area_size>
+        <city>Bordeaux</city>
+        <state>Nouvelle-Aquitaine</state>
+        <elevator>false</elevator>
+        <security_guards>false</security_guards>
+        <gardens>true</gardens>
+        <water_supply>true</water_supply>
+        <power_backup>false</power_backup>
+        <parking_area>false</parking_area>
+        <gym>false</gym>
+        <mall>false</mall>
+        <hospital>false</hospital>
+        <schools>false</schools>
+        <status>available</status>
+        <is_featured>true</is_featured>
+        <description>Un terrain spacieux et bien situé à Bordeaux, offrant de nombreuses possibilités pour le développement résidentiel ou commercial. Avec un accès facile aux principales routes et aux commodités locales, ce terrain est idéal pour les investisseurs cherchant à développer un projet immobilier polyvalent.</description>
+        <publisher_name>Antoine Laurent</publisher_name>
+        <publisher_number>6543210987</publisher_number>
+        <image>p-6-1.jpg</image>
+        <image>p-6-2.jpg</image>
+        <image>p-6-3.jpg</image>
+    </property>
+    <property>
+        <id>7</id>
+        <title>Château historique luxueux dans la vallée de la Loire</title>
+        <property_type>château</property_type>
+        <adresse>1 Rue du Château, Loire Valley 41500</adresse>
+        <prix>5000000</prix>
+        <statut>for sale</statut>
+        <bhk>15 bhk</bhk>
+        <bed>8</bed>
+        <bathroom>10</bathroom>
+        <balcony>8</balcony>
+        <hall>5</hall>
+        <kitchen>3</kitchen>
+        <floor>3</floor>
+        <total_floor>4</total_floor>
+        <area_size>20000</area_size>
+        <city>Loire Valley</city>
+        <state>Centre-Val de Loire</state>
+        <elevator>false</elevator>
+        <security_guards>true</security_guards>
+        <gardens>true</gardens>
+        <water_supply>true</water_supply>
+        <power_backup>true</power_backup>
+        <parking_area>true</parking_area>
+        <gym>false</gym>
+        <mall>false</mall>
+        <hospital>false</hospital>
+        <schools>false</schools>
+        <status>available</status>
+        <is_featured>true</is_featured>
+        <description>Un magnifique château historique dans la vallée de la Loire, entouré de vastes jardins paysagers et de terres pittoresques. Ce château emblématique offre une expérience de vie luxueuse avec des intérieurs somptueux et des installations modernes, idéal pour les amateurs d'histoire et les passionnés d'architecture.</description>
+        <publisher_name>Isabelle Dubois</publisher_name>
+        <publisher_number>3216549870</publisher_number>
+        <image>p-7-1.webp</image>
+        <image>p-7-2.webp</image>
+        <image>p-7-3.jpg</image>
+    </property>
+    <property>
+        <id>8</id>
+        <title>Ferme traditionnelle pittoresque en Normandie</title>
+        <property_type>ferme</property_type>
+        <adresse>5 Route de la Ferme, Rouen 76000</adresse>
+        <prix>800000</prix>
+        <statut>for sale</statut>
+        <bhk>6 bhk</bhk>
+        <bed>9</bed>
+        <bathroom>4</bathroom>
+        <balcony>2</balcony>
+        <hall>3</hall>
+        <kitchen>2</kitchen>
+        <floor>2</floor>
+        <total_floor>2</total_floor>
+        <area_size>10000</area_size>
+        <city>Normandy</city>
+        <state>Normandy</state>
+        <elevator>false</elevator>
+        <security_guards>false</security_guards>
+        <gardens>true</gardens>
+        <water_supply>true</water_supply>
+        <power_backup>true</power_backup>
+        <parking_area>true</parking_area>
+        <gym>false</gym>
+        <mall>false</mall>
+        <hospital>false</hospital>
+        <schools>true</schools>
+        <status>available</status>
+        <is_featured>true</is_featured>
+        <description>Une charmante ferme traditionnelle en Normandie, entourée de vastes champs verdoyants et offrant une vue imprenable sur la campagne française. Cette ferme pittoresque est parfaite pour ceux qui recherchent une retraite tranquille avec un mode de vie rural relaxant.</description>
+        <publisher_name>Philippe Lefebvre</publisher_name>
+        <publisher_number>9876543210</publisher_number>
+        <image>p-8-1.webp</image>
+        <image>p-8-2.jpg</image>
+        <image>p-8-3.jpg</image>
+    </property>
+    <property>
+        <id>9</id>
+        <title>Péniche charmante sur les rives de Strasbourg</title>
+        <property_type>péniche</property_type>
+        <adresse>Quai de la Péniche, Strasbourg 67000</adresse>
+        <prix>350000</prix>
+        <statut>for sale</statut>
+        <bhk>2 bhk</bhk>
+        <bed>3</bed>
+        <bathroom>1</bathroom>
+        <balcony>0</balcony>
+        <hall>1</hall>
+        <kitchen>1</kitchen>
+        <floor>1</floor>
+        <total_floor>1</total_floor>
+        <area_size>800</area_size>
+        <city>Strasbourg</city>
+        <state>Grand Est</state>
+        <elevator>false</elevator>
+        <security_guards>false</security_guards>
+        <gardens>false</gardens>
+        <water_supply>true</water_supply>
+        <power_backup>false</power_backup>
+        <parking_area>false</parking_area>
+        <gym>false</gym>
+        <mall>false</mall>
+        <hospital>true</hospital>
+        <schools>true</schools>
+        <status>available</status>
+        <is_featured>true</is_featured>
+        <description>Une péniche charmante amarrée sur les rives pittoresques de Strasbourg, offrant une expérience de vie unique sur l'eau. Cette péniche confortable est idéale pour ceux qui cherchent à vivre près de la nature avec tous les conforts d'un foyer moderne.</description>
+        <publisher_name>Marie Dubois</publisher_name>
+        <publisher_number>8765432109</publisher_number>
+        <image>p-9-1.jpg</image>
+        <image>p-9-2.jfif</image>
+        <image>p-9-3.jpg</image>
+    </property>
+    <property>
+        <id>10</id>
+        <title>Domaine viticole exceptionnel en Champagne</title>
+        <property_type>domaine</property_type>
+        <adresse>Chemin du Domaine, Champagne</adresse>
+        <prix>15000000</prix>
+        <statut>for sale</statut>
+        <bhk>20 bhk</bhk>
+        <bed>13</bed>
+        <bathroom>15</bathroom>
+        <balcony>10</balcony>
+        <hall>8</hall>
+        <kitchen>5</kitchen>
+        <floor>2</floor>
+        <total_floor>3</total_floor>
+        <area_size>50000</area_size>
+        <city>Champagne</city>
+        <state>Grand Est</state>
+        <elevator>true</elevator>
+        <security_guards>true</security_guards>
+        <gardens>true</gardens>
+        <water_supply>true</water_supply>
+        <power_backup>true</power_backup>
+        <parking_area>true</parking_area>
+        <gym>true</gym>
+        <mall>false</mall>
+        <hospital>false</hospital>
+        <schools>false</schools>
+        <status>available</status>
+        <is_featured>true</is_featured>
+        <description>Un magnifique domaine viticole situé au cœur de la région champenoise, offrant des vignobles expansifs, des installations de production de vin de classe mondiale et une maison de maître luxueuse. Ce domaine exceptionnel est une opportunité unique pour les amateurs de vin et les investisseurs du secteur viticole.</description>
+        <publisher_name>Emmanuel Martin</publisher_name>
+        <publisher_number>6549873210</publisher_number>
+        <image>p-10-1.jpg</image>
+        <image>p-10-2.jpg</image>
+        <image>p-10-3.jpg</image>
+    </property>
+    <property>
+        <id>11</id>
+        <title>Chalet alpin de luxe avec vue sur les montagnes à Courchevel</title>
+        <property_type>chalet</property_type>
+        <adresse>Chemin du Chalet, Courchevel</adresse>
+        <prix>2800000</prix>
+        <statut>for sale</statut>
+        <bhk>8 bhk</bhk>
+        <bed>4</bed>
+        <bathroom>6</bathroom>
+        <balcony>4</balcony>
+        <hall>3</hall>
+        <kitchen>2</kitchen>
+        <floor>3</floor>
+        <total_floor>4</total_floor>
+        <area_size>6000</area_size>
+        <city>Courchevel</city>
+        <state>Auvergne-Rhône-Alpes</state>
+        <elevator>false</elevator>
+        <security_guards>true</security_guards>
+        <gardens>true</gardens>
+        <water_supply>true</water_supply>
+        <power_backup>true</power_backup>
+        <parking_area>true</parking_area>
+        <gym>false</gym>
+        <mall>false</mall>
+        <hospital>false</hospital>
+        <schools>false</schools>
+        <status>available</status>
+        <is_featured>true</is_featured>
+        <description>Un magnifique chalet alpin situé dans la célèbre station de Courchevel, offrant une vue imprenable sur les montagnes enneigées. Ce chalet de luxe propose des intérieurs élégants et des équipements haut de gamme, offrant une expérience de ski et de détente exclusive dans les Alpes françaises.</description>
+        <publisher_name>Julien Blanc</publisher_name>
+        <publisher_number>1234567890</publisher_number>
+        <image>p-11-1.jpg</image>
+        <image>p-11-2.jpg</image>
+        <image>p-11-3.jpg</image>
+    </property>
+    <property>
+        <id>12</id>
+        <title>Manoir historique au cœur de la Bretagne</title>
+        <property_type>manoir</property_type>
+        <adresse>Allée du Manoir, Landerneau 29800</adresse>
+        <prix>3800000</prix>
+        <statut>for sale</statut>
+        <bhk>10 bhk</bhk>
+        <bed>10</bed>
+        <bathroom>8</bathroom>
+        <balcony>6</balcony>
+        <hall>5</hall>
+        <kitchen>3</kitchen>
+        <floor>2</floor>
+        <total_floor>2</total_floor>
+        <area_size>10000</area_size>
+        <city>Brittany</city>
+        <state>Brittany</state>
+        <elevator>false</elevator>
+        <security_guards>true</security_guards>
+        <gardens>true</gardens>
+        <water_supply>true</water_supply>
+        <power_backup>true</power_backup>
+        <parking_area>true</parking_area>
+        <gym>true</gym>
+        <mall>false</mall>
+        <hospital>false</hospital>
+        <schools>false</schools>
+        <status>available</status>
+        <is_featured>true</is_featured>
+        <description>Un magnifique manoir historique situé au cœur de la Bretagne, entouré de vastes jardins pittoresques et de terres luxuriantes. Ce manoir traditionnel offre des intérieurs élégants, des équipements modernes et un charme historique, idéal pour ceux qui apprécient le patrimoine culturel et l'élégance intemporelle.</description>
+        <publisher_name>Camille Lefevre</publisher_name>
+        <publisher_number>5432167890</publisher_number>
+        <image>p-12-1.jpg</image>
+        <image>p-12-2.jpg</image>
+        <image>p-12-3.jpg</image>
+    </property>
+    <property>
+        <id>13</id>
+        <title>Maison de campagne charmante en Provence</title>
+        <property_type>maison</property_type>
+        <adresse>Chemin de la Campagne, Provence</adresse>
+        <prix>1500000</prix>
+        <statut>for sale</statut>
+        <bhk>5 bhk</bhk>
+        <bed>3</bed>
+        <bathroom>4</bathroom>
+        <balcony>3</balcony>
+        <hall>2</hall>
+        <kitchen>1</kitchen>
+        <floor>2</floor>
+        <total_floor>2</total_floor>
+        <area_size>7000</area_size>
+        <city>Provence</city>
+        <state>Provence-Alpes-Côte d'Azur</state>
+        <elevator>false</elevator>
+        <security_guards>false</security_guards>
+        <gardens>true</gardens>
+        <water_supply>true</water_supply>
+        <power_backup>true</power_backup>
+        <parking_area>true</parking_area>
+        <gym>false</gym>
+        <mall>false</mall>
+        <hospital>false</hospital>
+        <schools>true</schools>
+        <status>available</status>
+        <is_featured>true</is_featured>
+        <description>Une charmante maison de campagne nichée au cœur de la magnifique région de Provence, entourée de champs de lavande et de paysages pittoresques. Cette maison offre un mélange de confort moderne et de charme rustique, idéale pour ceux qui recherchent un style de vie paisible à la campagne.</description>
+        <publisher_name>Sophie Girard</publisher_name>
+        <publisher_number>6789054321</publisher_number>
+        <image>p-13-1.jpg</image>
+        <image>p-13-2.jpg</image>
+        <image>p-13-3.jpg</image>
+    </property>
+    <property>
+        <id>14</id>
+        <title>Ferme équestre de charme en Dordogne</title>
+        <property_type>ferme</property_type>
+        <adresse>Chemin de la Ferme Équestre, Dordogne</adresse>
+        <prix>2200000</prix>
+        <statut>for sale</statut>
+        <bhk>4 bhk</bhk>
+        <bed>5</bed>
+        <bathroom>3</bathroom>
+        <balcony>2</balcony>
+        <hall>2</hall>
+        <kitchen>1</kitchen>
+        <floor>1</floor>
+        <total_floor>1</total_floor>
+        <area_size>6000</area_size>
+        <city>Dordogne</city>
+        <state>Nouvelle-Aquitaine</state>
+        <elevator>false</elevator>
+        <security_guards>false</security_guards>
+        <gardens>true</gardens>
+        <water_supply>true</water_supply>
+        <power_backup>true</power_backup>
+        <parking_area>true</parking_area>
+        <gym>false</gym>
+        <mall>false</mall>
+        <hospital>false</hospital>
+        <schools>false</schools>
+        <status>available</status>
+        <is_featured>true</is_featured>
+        <description>Une charmante ferme équestre située dans la magnifique région de la Dordogne, offrant des installations équestres de première classe, des terres spacieuses et une maison de campagne confortable. Cette ferme est parfaite pour les passionnés de chevaux et les amateurs de vie à la campagne.</description>
+        <publisher_name>Lucas Martin</publisher_name>
+        <publisher_number>8901234567</publisher_number>
+        <image>p-14-1.jpg</image>
+        <image>p-14-2.jpg</image>
+        <image>p-14-3.jpg</image>
+    </property>
+    <property>
+        <id>15</id>
+        <title>Cabane charmante au cœur de la nature ardennaise</title>
+        <property_type>cabane</property_type>
+        <adresse>Chemin de la Cabane, Ardennes</adresse>
+        <prix>300000</prix>
+        <statut>for sale</statut>
+        <bhk>1 bhk</bhk>
+        <bed>0</bed>
+        <bathroom>1</bathroom>
+        <balcony>0</balcony>
+        <hall>0</hall>
+        <kitchen>0</kitchen>
+        <floor>1</floor>
+        <total_floor>1</total_floor>
+        <area_size>500</area_size>
+        <city>Ardennes</city>
+        <state>Grand Est</state>
+        <elevator>false</elevator>
+        <security_guards>false</security_guards>
+        <gardens>true</gardens>
+        <water_supply>true</water_supply>
+        <power_backup>false</power_backup>
+        <parking_area>false</parking_area>
+        <gym>false</gym>
+        <mall>false</mall>
+        <hospital>false</hospital>
+        <schools>false</schools>
+        <status>available</status>
+        <is_featured>true</is_featured>
+        <description>Une charmante cabane nichée dans les bois luxuriants des Ardennes, offrant une retraite paisible en pleine nature. Cette cabane est idéale pour les amoureux de la nature et les passionnés d'aventure à la recherche d'une escapade unique au milieu des arbres et de la faune sauvage.</description>
+        <publisher_name>Sylvie Leclerc</publisher_name>
+        <publisher_number>6789054321</publisher_number>
+        <image>p-15-1.jpg</image>
+        <image>p-15-2.jpg</image>
+        <image>p-15-3.jpg</image>
+    </property>
+    <property>
+        <id>16</id>
+        <title>Appartement de luxe avec vue sur la Tour Eiffel à Paris</title>
+        <property_type>appartement</property_type>
+        <adresse>Place du Luxe, Paris 75000</adresse>
+        <prix>6000000</prix>
+        <statut>for sale</statut>
+        <bhk>4 bhk</bhk>
+        <bed>3</bed>
+        <bathroom>3</bathroom>
+        <balcony>2</balcony>
+        <hall>1</hall>
+        <kitchen>1</kitchen>
+        <floor>5</floor>
+        <total_floor>10</total_floor>
+        <area_size>3000</area_size>
+        <city>Paris</city>
+        <state>Île-de-France</state>
+        <elevator>true</elevator>
+        <security_guards>true</security_guards>
+        <gardens>false</gardens>
+        <water_supply>true</water_supply>
+        <power_backup>true</power_backup>
+        <parking_area>true</parking_area>
+        <gym>true</gym>
+        <mall>true</mall>
+        <hospital>true</hospital>
+        <schools>true</schools>
+        <status>available</status>
+        <is_featured>true</is_featured>
+        <description>Un somptueux appartement de luxe offrant une vue imprenable sur la Tour Eiffel et les toits de Paris. Doté d'intérieurs haut de gamme et d'équipements modernes, cet appartement incarne le raffinement et le confort, offrant une expérience de vie élégante au cœur de la capitale française.</description>
+        <publisher_name>Jacques Dubois</publisher_name>
+        <publisher_number>7890123456</publisher_number>
+        <image>p-16-1.jpg</image>
+        <image>p-16-2.jpg</image>
+        <image>p-16-3.jpg</image>
+    </property>
+    <property>
+        <id>17</id>
+        <title>Terrain idéal pour investissement à Bordeaux</title>
+        <property_type>terrain</property_type>
+        <adresse>Chemin du Terrain, Bordeaux 33000</adresse>
+        <prix>800000</prix>
+        <statut>for sale</statut>
+        <bhk>0</bhk>
+        <bed>0</bed>
+        <bathroom>0</bathroom>
+        <balcony>0</balcony>
+        <hall>0</hall>
+        <kitchen>0</kitchen>
+        <floor>0</floor>
+        <total_floor>0</total_floor>
+        <area_size>10000</area_size>
+        <city>Bordeaux</city>
+        <state>Nouvelle-Aquitaine</state>
+        <elevator>false</elevator>
+        <security_guards>false</security_guards>
+        <gardens>false</gardens>
+        <water_supply>true</water_supply>
+        <power_backup>false</power_backup>
+        <parking_area>false</parking_area>
+        <gym>false</gym>
+        <mall>false</mall>
+        <hospital>false</hospital>
+        <schools>false</schools>
+        <status>available</status>
+        <is_featured>true</is_featured>
+        <description>Un vaste terrain bien situé à proximité du centre-ville de Bordeaux, offrant d'innombrables possibilités de développement. Ce terrain est idéal pour les investisseurs cherchant à construire des propriétés résidentielles ou commerciales dans l'une des villes les plus dynamiques de France.</description>
+        <publisher_name>Nicolas Durand</publisher_name>
+        <publisher_number>3456789012</publisher_number>
+        <image>p-17-1.jpg</image>
+        <image>p-17-2.jpg</image>
+        <image>p-17-3.jpg</image>
+    </property>
+    <property>
+        <id>18</id>
+        <title>Château historique au cœur de la vallée de la Loire</title>
+        <property_type>château</property_type>
+        <adresse>Allée du Château, Loire Valley</adresse>
+        <prix>10000000</prix>
+        <statut>for sale</statut>
+        <bhk>15 bhk</bhk>
+        <bed>6</bed>
+        <bathroom>10</bathroom>
+        <balcony>8</balcony>
+        <hall>5</hall>
+        <kitchen>3</kitchen>
+        <floor>3</floor>
+        <total_floor>4</total_floor>
+        <area_size>20000</area_size>
+        <city>Loire Valley</city>
+        <state>Pays de la Loire</state>
+        <elevator>true</elevator>
+        <security_guards>true</security_guards>
+        <gardens>true</gardens>
+        <water_supply>true</water_supply>
+        <power_backup>true</power_backup>
+        <parking_area>true</parking_area>
+        <gym>true</gym>
+        <mall>false</mall>
+        <hospital>false</hospital>
+        <schools>false</schools>
+        <status>available</status>
+        <is_featured>true</is_featured>
+        <description>Un magnifique château historique situé au cœur de la vallée de la Loire, entouré de vastes jardins paysagers et de terres pittoresques. Ce château impressionnant est un exemple remarquable d'architecture médiévale et offre un héritage culturel riche pour les passionnés d'histoire et les amateurs d'art.</description>
+        <publisher_name>Isabelle Dupont</publisher_name>
+        <publisher_number>4567890123</publisher_number>
+        <image>p-18-1.jpg</image>
+        <image>p-18-2.jpg</image>
+        <image>p-18-3.jpg</image>
+    </property>
+    <property>
+        <id>19</id>
+        <title>Studio ensoleillé au cœur de Marseille</title>
+        <property_type>studio</property_type>
+        <adresse>Rue du Studio, Marseille 13000</adresse>
+        <prix>450</prix>
+        <statut>for rent</statut>
+        <bhk>1 bhk</bhk>
+        <bed>1</bed>
+        <bathroom>1</bathroom>
+        <balcony>1</balcony>
+        <hall>0</hall>
+        <kitchen>1</kitchen>
+        <floor>1</floor>
+        <total_floor>6</total_floor>
+        <area_size>400</area_size>
+        <city>Marseille</city>
+        <state>Provence-Alpes-Côte d'Azur</state>
+        <elevator>true</elevator>
+        <security_guards>false</security_guards>
+        <gardens>false</gardens>
+        <water_supply>true</water_supply>
+        <power_backup>false</power_backup>
+        <parking_area>false</parking_area>
+        <gym>false</gym>
+        <mall>false</mall>
+        <hospital>true</hospital>
+        <schools>true</schools>
+        <status>available</status>
+        <is_featured>true</is_featured>
+        <description>Un charmant studio situé dans le quartier animé de Marseille, offrant une vie urbaine dynamique à proximité des restaurants et des attractions culturelles. Ce studio compact est idéal pour les jeunes professionnels ou les étudiants à la recherche d'un logement confortable dans la ville ensoleillée de Marseille.</description>
+        <publisher_name>Léa Bernard</publisher_name>
+        <publisher_number>9876543210</publisher_number>
+        <image>p-19-1.jpg</image>
+        <image>p-19-2.jpg</image>
+        <image>p-19-3.jpg</image>
+    </property>
+    <property>
+        <id>20</id>
+        <title>Ferme pittoresque en Normandie</title>
+        <property_type>ferme</property_type>
+        <adresse>Chemin de la Ferme, Rouen 76000</adresse>
+        <prix>900000</prix>
+        <statut>for sale</statut>
+        <bhk>3 bhk</bhk>
+        <bed>6</bed>
+        <bathroom>2</bathroom>
+        <balcony>1</balcony>
+        <hall>1</hall>
+        <kitchen>1</kitchen>
+        <floor>2</floor>
+        <total_floor>2</total_floor>
+        <area_size>5000</area_size>
+        <city>Normandy</city>
+        <state>Normandy</state>
+        <elevator>false</elevator>
+        <security_guards>false</security_guards>
+        <gardens>true</gardens>
+        <water_supply>true</water_supply>
+        <power_backup>true</power_backup>
+        <parking_area>true</parking_area>
+        <gym>false</gym>
+        <mall>false</mall>
+        <hospital>false</hospital>
+        <schools>true</schools>
+        <status>available</status>
+        <is_featured>true</is_featured>
+        <description>Une charmante ferme pittoresque située dans la magnifique campagne normande, offrant des paysages tranquilles et des vues panoramiques. Cette ferme traditionnelle est idéale pour ceux qui recherchent un mode de vie rural paisible et la possibilité de cultiver leurs propres produits frais.</description>
+        <publisher_name>Charlotte Dubois</publisher_name>
+        <publisher_number>5678901234</publisher_number>
+        <image>p-20-1.jpg</image>
+        <image>p-20-2.jpg</image>
+        <image>p-20-3.jpg</image>
+    </property>
+</properties>
